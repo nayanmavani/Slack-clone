@@ -7,4 +7,4 @@ You can login with Gmail account.
 You can set your Dispaly Picture.
 You can create Groups.
 You can send massage in real Time.
-It shows Date nad Time of your massage.
+It shows Date and Time of your massage.
