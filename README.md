@@ -9,4 +9,5 @@ You can create Groups.
 You can send massage in real Time.
 It shows Date and Time of your massage.
 
-Storsy 2 test
+
+Git Updated
